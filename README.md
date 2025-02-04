@@ -1,2 +1,2 @@
 # audio2text
-Translate audio in text
+Translate audio to text
